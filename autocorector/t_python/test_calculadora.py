@@ -10,7 +10,7 @@ def path_assignment(assignment_name):
     return os.path.abspath(assignment_path)
 
 
-PATH_ASSIGNMENT = path_assignment("p_calculadora")
+PATH_ASSIGNMENT = path_assignment("p_python_simple")
 
 sys.path.append(PATH_ASSIGNMENT)
 
