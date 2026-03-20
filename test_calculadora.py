@@ -66,7 +66,7 @@ def test_multiplica_positivos():
     test_info = {
         "name": "test_multiplica_positivos",
         "description": "La función multiplica realiza correctamente la multiplicación de números positivos",
-        "score": 1.5,
+        "score": 1.25,
         "msg_ok": "Multiplicación de números positivos calculada correctamente",
         "msg_error": "La función multiplica no calcula correctamente la multiplicación de números positivos",
     }
@@ -80,7 +80,7 @@ def test_multiplica_negativos():
     test_info = {
         "name": "test_multiplica_negativos",
         "description": "La función multiplica maneja correctamente la multiplicación con números negativos",
-        "score": 1.5,
+        "score": 1.25,
         "msg_ok": "Multiplicación con números negativos calculada correctamente",
         "msg_error": "La función multiplica no maneja correctamente los números negativos",
     }
@@ -108,7 +108,7 @@ def test_divide_positiva():
     test_info = {
         "name": "test_divide_positiva",
         "description": "La función divide realiza correctamente la división de números positivos",
-        "score": 1.5,
+        "score": 0.75,
         "msg_ok": "División de números positivos calculada correctamente",
         "msg_error": "La función divide no calcula correctamente la división de números positivos",
     }
@@ -122,7 +122,7 @@ def test_divide_negativa():
     test_info = {
         "name": "test_divide_negativa",
         "description": "La función divide maneja correctamente la división con números negativos",
-        "score": 1.5,
+        "score": 0.75,
         "msg_ok": "División con números negativos calculada correctamente",
         "msg_error": "La función divide no maneja correctamente los números negativos",
     }
