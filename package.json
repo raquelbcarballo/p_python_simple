@@ -8,8 +8,8 @@
     "info": {
         "githubURL": "raquelbcarballo/p_calculadora",
         "serverUrl": "https://aat.dit.upm.es/",
-        "courseId": "395",
-        "assignmentId": "41284"
+        "courseId": "999999",
+        "assignmentId": "99999"
     },
     "dependencies": {
         "autocorector": "^4.1.0"
